@@ -5,6 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejpal8839&label=Profile%20views&color=0e75b6&style=flat" alt="tejpal8839" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejpal8839" alt="tejpal8839" /></a> </p>
 
+- 🔭 I’m currently working on Learn Sphere Project 
+
+- 🌱 I’m currently learning **JAVA,JavaScript, Web Development**
+
+- 📫 How to reach me through LinkedIn **https://www.linkedin.com/in/tejpal-singh-6b08a524b/**
+
+- ⚡ Fun fact **Even I don't Know**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tejpal singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejpal singh" height="30" width="40" /></a>
