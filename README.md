@@ -1,8 +1,8 @@
+
  <h1 align="center">Hi 👋, I'm Tejpal Singh</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
-
+<img align="center" alt="Coding" width="800" height="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejpal8839&label=Profile%20views&color=0e75b6&style=flat" alt="tejpal8839" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejpal8839" alt="tejpal8839" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
