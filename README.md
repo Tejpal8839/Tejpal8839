@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
+![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
  <h1 align="center">Hi 👋, I'm Tejpal Singh</h1>
 <h3 align="center">A passionate Java Full Stack developer and Coding Enthusiast from India</h3>
 
