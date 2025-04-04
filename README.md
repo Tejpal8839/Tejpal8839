@@ -11,7 +11,10 @@
 
 - 📫 How to reach me through LinkedIn **https://www.linkedin.com/in/tejpal-singh-6b08a524b/**
 
+- 📫 How to reach me  tejpalsingh@gmail.com
+
 - ⚡ Fun fact **Even I don't Know**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tejpal singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejpal singh" height="30" width="40" /></a>
